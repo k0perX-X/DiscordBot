@@ -1,9 +1,8 @@
 import discord
 from threading import Timer
-
-TOKEN = 'NzY3MzM4ODcyOTExODIyODQ4.X4weAw.kR_lgYZwKkh2Yb904TIEUGCKjQk'
-TOKEN_Borshik5 = 'NzY4MTE1Nzg3Nzc2NTI0MzU4.X47xkg.voHbdvBfAiC8xUrkF-ily0dejrY'
-TOKEN_Tech = 'NzY4MTE2ODU0NjIyNzgxNTAy.X47ykQ.W8-LBT6nueS39kZL49Ec8sTqIRo'
+from tokens import TOKEN
+from tokens import TOKEN_Borshik5
+from tokens import TOKEN_Tech
 
 idi_nahuy = ' ну реально заебал (без негатива) :heart::heart::heart:'
 hunt_sosi = 'Хант пососи :heart::heart::heart:'
